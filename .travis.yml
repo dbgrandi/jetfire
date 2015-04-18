@@ -1,0 +1,10 @@
+language: objective-c
+before_install:
+  - brew update
+  - brew uninstall xctool
+  - brew install xctool
+  - export LANG=en_US.UTF-8
+  - gem i cocoapods -N
+xcode_workspace: SimpleTest/SimpleTest.xcworkspace
+xcode_scheme: SimpleTestTests
+xcode_sdk: iphonesimulator

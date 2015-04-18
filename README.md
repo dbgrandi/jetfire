@@ -1,6 +1,10 @@
 Jetfire
 =======
 
+[![Build Status](https://travis-ci.org/dbgrandi/jetfire.svg)](https://travis-ci.org/dbgrandi/jetfire)
+[![Version](http://cocoapod-badges.herokuapp.com/v/jetfire/badge.png)](http://cocoadocs.org/docsets/jetfire)
+[![Platform](http://cocoapod-badges.herokuapp.com/p/jetfire/badge.png)](http://cocoadocs.org/docsets/jetfire)
+
 WebSocket [RFC 6455](http://tools.ietf.org/html/rfc6455) client library for iOS and OSX.
 
 Jetfire is a conforming WebSocket ([RFC 6455](http://tools.ietf.org/html/rfc6455)) client library in Objective-C for iOS and OSX.

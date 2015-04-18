@@ -89,7 +89,7 @@
 - (void)addHeader:(NSString*)value forKey:(NSString*)key;
 
 /**
- returns if the socket is conneted or not.
+ returns if the socket is connected or not.
  */
 @property(nonatomic, assign, readonly)BOOL isConnected;
 
