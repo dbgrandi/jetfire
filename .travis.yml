@@ -6,5 +6,5 @@ before_install:
   - export LANG=en_US.UTF-8
   - gem i cocoapods -N
 xcode_workspace: SimpleTest/SimpleTest.xcworkspace
-xcode_scheme: SimpleTestTests
+xcode_scheme: SimpleTest
 xcode_sdk: iphonesimulator
